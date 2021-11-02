@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TodMeH6ZTfhVPaIVdjgVvk7YNUs1ZdlDr4I/wg3c9pQ5g9kiyvVyoEXSQxk4YEp/Z1MEq1/zsA9GUxi+QtH3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ybeea\\OneDrive\\Desktop\\GrandCircus\\Week6\\DeckOfCards\\DeckOfCards\\DeckOfCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybeea\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
